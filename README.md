@@ -1,2 +1,3 @@
 # landing-page-bigotinos
-Landin page de Bigotinos, centro de rescate y adopción animal.
+Landing page de Bigotinos, centro de rescate y adopción animal.
+Landing diseñada para mostrar la organización, las mascotas disponibles y cómo adoptarlas mediante esta plataforma.
